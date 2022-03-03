@@ -65,6 +65,10 @@
         }
       },
       "DevFreela.Application/1.0.0": {
+        "dependencies": {
+          "DevFreela.Core": "1.0.0",
+          "DevFreela.Infrastructure": "1.0.0"
+        },
         "runtime": {
           "DevFreela.Application.dll": {}
         }

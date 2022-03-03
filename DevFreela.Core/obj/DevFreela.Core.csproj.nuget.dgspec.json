@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {}
+    "C:\\Projetos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+    "C:\\Projetos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectUniqueName": "C:\\Projetos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "projectName": "DevFreela.Core",
-        "projectPath": "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectPath": "C:\\Projetos\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "packagesPath": "C:\\Users\\marques.fonseca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.Core\\obj\\",
+        "outputPath": "C:\\Projetos\\DevFreela\\DevFreela.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

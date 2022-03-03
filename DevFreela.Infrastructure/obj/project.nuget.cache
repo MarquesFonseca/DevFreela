@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C39+bXSK7xCkZZdSQAbIJMFAaLlq+63wHyDrgFpxvwutIl7BJDIbA6EybzpvAuo4FHw6FXMwMMJ+YWg0ZI80lw==",
+  "dgSpecHash": "SlKcD23vlWDo0pYrUuP2WDgV8tVlaAn6B5z0vkD/UNr3ALAPBubgryqiOx8wSaEKl4e4zNdif8obTszn0eK5Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projetos\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

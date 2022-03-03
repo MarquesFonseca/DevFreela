@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFJ4d9jku0AnZ/fW6HHg2j86XAzC+Qhdw4jyZFBxkw99zyIlDw9ytX4dvX1vi9FYpl3fVfapDbf8ZPWUvxNyZw==",
+  "dgSpecHash": "JqIh+re6IkX/VDRKqBtRJ4UriMUp15g/UsfOZvF6Lf5/Llx0xN5/tbjeLSiCa6nmBvA2x5KZ8IbKMK6o1qrFRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marques.fonseca\\source\\repos\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+  "projectFilePath": "C:\\Projetos\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marques.fonseca\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\marques.fonseca\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
